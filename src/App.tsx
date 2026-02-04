@@ -1,3 +1,5 @@
+import { AppContainer } from "./styles";
+
 export const App = () => {
-  return null;
+  return <AppContainer>Columns will go here!</AppContainer>;
 };
